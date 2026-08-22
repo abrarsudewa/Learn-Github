@@ -8,3 +8,7 @@ My hobby is:
 - Taekwondo
 - Drawing (still learning btwm hiksss...)
 - Reading Manga/Novel
+
+If you asking what kind of games did you made?
+the answer is i made a lot of games but not many of them are done, because back then i just care the logic not the whole game
+so that's why now i have only 1 game in itch.io that called Snake Game Monogame, cus its made using Monogame Framework LOL.
